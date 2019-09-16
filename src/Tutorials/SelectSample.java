@@ -53,7 +53,7 @@ public class SelectSample {
 			Thread.sleep(2000);
 			
 			sel.deselectAll();
-			sel.
+			
 			Thread.sleep(2000);
 			
 		} else
